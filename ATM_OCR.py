@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Load the image
-image_path = "atm_card.jpg"  # Replace with the actual image path
+image_path = "c1.jpg"  # Replace with the actual image path
 image = cv2.imread(image_path)
 
 # Convert the image to grayscale
